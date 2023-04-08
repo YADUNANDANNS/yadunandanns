@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @YADUNANDANNS
-- 👀 I’m interested in Data Science and Machine learning
+- 👀 I’m interested in Data Science and WEB3 SPACE
+- also building projects on web3 data analytics
 - 🌱 I’m currently learning Data Science for 100 days
 - 💞️ I’m looking to collaborate on Consistent beginner coding challenges everyday
 - 📫 How to reach me ? instagram:- _yadu_yash or git:- _yadu_yash twitter:- _yadu_yash
